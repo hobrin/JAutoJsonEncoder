@@ -41,12 +41,12 @@ Make sure to credit me, and keep the license. For further information look at th
 
 # Improvements
 Let me know if you would want a feature that automatically tabs the lines, because now the result is just a mess. Also, code could be made a lot easier:
-```
+```java
 JsonPrimitive age = new JsonPrimitive(10);
 json.add("age", age);
 ```
 this could be shortened too:
-```
+```java
 json.addProperty("age", 10);
 ```
 which makes a lot more sense, but that would be kinda tricky to implement.
