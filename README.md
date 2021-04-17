@@ -34,3 +34,15 @@ json.add("videoGames", videoGames);
 ```
 # License
 Make sure to credit me, and keep the license. For further information look at the LICENSE file.
+
+# Improvements
+Let me know if you would want a feature that automatically tabs the lines, because now the result is just a mess. Also, code could be made a lot easier:
+```
+JsonPrimitive age = new JsonPrimitive(10);
+json.add("age", age);
+```
+this could be shortened too:
+```
+json.add("age", 10);
+```
+which makes a lot more sense, but that would be kinda tricky to implement.
