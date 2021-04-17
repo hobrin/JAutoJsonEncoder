@@ -1,7 +1,7 @@
 # JAutoJsonEncoder
 Easy java program to automatically generate java code to initiate a JsonObject using Gson. My code uses java and Gson too. Make sure to add Gson as a library: https://github.com/google/gson
 
-# Use
+# Use/Download
 You could download a compiled jar here, with the instructions on how to run it.
 https://github.com/hobrin/JAutoJsonEncoder/releases/tag/1.0
 
