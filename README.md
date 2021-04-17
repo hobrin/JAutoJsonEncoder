@@ -32,5 +32,5 @@ videoGames.add(videoGames_1);
 
 json.add("videoGames", videoGames);
 ```
-#License
+# License
 Make sure to credit me, and keep the license. For further information look at the LICENSE file.
