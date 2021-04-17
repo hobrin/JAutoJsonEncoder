@@ -43,6 +43,6 @@ json.add("age", age);
 ```
 this could be shortened too:
 ```
-json.add("age", 10);
+json.addProperty("age", 10);
 ```
 which makes a lot more sense, but that would be kinda tricky to implement.
