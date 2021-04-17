@@ -50,3 +50,6 @@ this could be shortened too:
 json.addProperty("age", 10);
 ```
 which makes a lot more sense, but that would be kinda tricky to implement.
+
+# Extra
+fun fact! Creating this github took longer than writing the actual code itself!
