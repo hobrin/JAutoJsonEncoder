@@ -6,11 +6,11 @@ You could download a compiled jar here, with the instructions on how to run it.
 https://github.com/hobrin/JAutoJsonEncoder/releases/tag/1.0
 
 # Example
-```
+```json
 {"age":10,"name":"smith","parent":{"lastName":"Smith"},"videoGames":["Tetris","Pong"]}
 ```
 will result in:
-```
+```java
 JsonObject json = new JsonObject();
 
 JsonPrimitive age = new JsonPrimitive(10);
